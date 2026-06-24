@@ -4,11 +4,7 @@ ROS 2, Gazebo ve RTAB-Map kullanarak kapalı alanlarda drone tabanlı 3B harital
 
 Bu repo kod ve dokümantasyon odaklıdır. Büyük SLAM çıktıları, RTAB-Map veritabanları, nokta bulutları, mesh dosyaları, build klasörleri ve ham veri setleri GitHub'a konmaz.
 
-Önerilen GitHub repo adı:
 
-```text
-kasif-drone-slam
-```
 
 ## İçerik
 
