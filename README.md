@@ -2,7 +2,7 @@
 
 ROS 2, Gazebo ve RTAB-Map kullanarak kapalı alanlarda drone tabanlı 3B haritalama ve otonom keşif denemeleri için hazırlanmış proje deposudur. Çalışma Maps1-Maps12 arasında adım adım geliştirilmiştir: ilk sürümlerde temel SLAM hattı kurulmuş, orta sürümlerde sensör ve rota kalitesi iyileştirilmiş, son sürümlerde genel otonom keşif algoritması farklı harita tiplerinde denenmiştir.
 
-Bu repo kod ve dokümantasyon odaklıdır. Büyük SLAM çıktıları, RTAB-Map veritabanları, nokta bulutları, mesh dosyaları, build klasörleri ve ham veri setleri GitHub'a konmaz.
+Bu repo kod ve dokümantasyon odaklıdır. Büyük SLAM çıktıları, RTAB-Map veritabanları, nokta bulutları, mesh dosyaları, build klasörleri ve ham veri setleri içermemektedir.
 
 
 
